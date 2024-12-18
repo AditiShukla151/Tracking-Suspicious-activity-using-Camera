@@ -1,9 +1,9 @@
 # Suspicious-Human-Activity-Detection-LRCN
 Suspicious Human Activity detection on CCTV camera footage using LRCN Model. 
-### Kunal (tulsidasanikunal@gmail.com)
+### Aditi (important.mails80151@gmail.com)
 
 <br><br>
-This project is an Upgradation to [Suspicious-Human-Activity-Detection-VGG16-LSTM](https://github.com/kunaltulsidasani/Suspicious-Human-Activity-Detection-VGG16-LSTM)
+This project is an Upgradation to [Suspicious-Human-Activity-Detection-VGG16-LSTM](https://github.com/AditiShukla151/Tracking-Suspicious-activity-using-camera-VGG16-LSTM)
 
 This project aims at Suspicious Human Activity detection on CCTV camera footage using LRCN Model.<br>
 The model detect human activity like - walking, running and fighting which can be used to classify in Suspicious or non-suspicious class.<br>
